@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40077906301",
+    "project_id": "fir-1092damu4",
+    "storage_bucket": "fir-1092damu4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40077906301:android:231a8633568e481b9c7c14",
+        "android_client_info": {
+          "package_name": "ittepic.edu.mx.dam_u4_ejercicio1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9AIwb9bx5QbCXsdjClwawULzQdpt6Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40077906301:android:c332bf199d1effb19c7c14",
+        "android_client_info": {
+          "package_name": "ittepic.edu.mx.proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9AIwb9bx5QbCXsdjClwawULzQdpt6Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
